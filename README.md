@@ -33,10 +33,6 @@ Note:
 Middleware/validators may or may not be there
 Services/models may or may not be there
 
-Image for better understanding
-
-![How-Node-code-works](https://github.com/pktherock/Habit-Tracker/assets/59223750/c8cdaadf-09ad-4c2a-9a24-c618859282e8)
-
 ## Packages used in this project.
 
 1. bcrypt
